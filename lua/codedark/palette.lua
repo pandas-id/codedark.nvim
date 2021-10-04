@@ -1,0 +1,51 @@
+none = 'NONE'
+front = '#d4d4d4'
+back = '#1e1e1e'
+
+tabcurrent = '#1e1e1e'
+tabother = '#2d2d2d'
+taboutside = '#252526'
+
+leftdark = '#252526'
+leftmid = '#373737'
+leftlight = '#3f3f46'
+
+popupfront = '#bbbbbb'
+popupback = '#2d2d30'
+popuphighlightblue = '#073655'
+popuphighlightgray = '#3d3d40'
+
+splitlight = '#898989'
+splitdark = '#444444'
+splitthumb = '#424242'
+
+cursordarkdark = '#222222'
+cursordark = '#51504f'
+cursorlight = '#aeafad'
+selection = '#264f78'
+linenumber = '#5a5a5a'
+
+diffreddark = '#4b1818'
+diffredlight = '#6f1313'
+diffredlightlight = '#fb0101'
+diffgreendark = '#373d29'
+diffgreenlight = '#4b5632'
+
+searchcurrent = '#4b5632'
+search = '#264f78'
+
+-- syntax colors
+gray = '#808080'
+violet = '#646695'
+blue = '#569cd6'
+darkblue = '#223e55'
+lightblue = '#9cdcfe'
+green = '#6a9955'
+bluegreen = '#4ec9b0'
+lightgreen = '#b5cea8'
+red = '#f44747'
+orange = '#ce9178'
+lightred = '#d16969'
+yelloworange = '#d7ba7d'
+yellow = '#dcdcaa'
+pink = '#c586c0'
